@@ -1,0 +1,4 @@
+MNIST/
+STL-10/
+TrainedModel/
+*.mat
